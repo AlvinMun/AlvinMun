@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Alvin!
+# Hi, I'm Alvin! ：）
 
-## 💻 Tech Stack
+##  Tech Stack
 
-### 🛠 Languages & Tools:
+###  Languages & Tools:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -11,14 +11,13 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
-## 📊 GitHub Stats:
+##  GitHub Stats:
 ![Alvin Mun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvinmun&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvinmun&layout=compact&theme=radical)
 
-## 📫 Connect with Me
+##  Connect with Me
 
 - **GitHub**: [github.com/AlvinMun](https://github.com/AlvinMun)
 - **Twitter/X**: [@AlvinMun0809](https://twitter.com/AlvinMun0809)
 
-🚀 Always building, always innovating. Let's change the world! 🌍
